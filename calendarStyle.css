@@ -1,0 +1,22 @@
+div.box {
+	height: 50px;
+	width: 	70px;
+	border-width: 4px;
+	border-style: solid;
+	border-color: #000000;
+	background-color: #ffffff;
+}
+
+div.upper {
+	border-top-left-radius: 10px;
+	border-top-right-radius: 10px;
+}
+
+div.lower {
+	border-bottom-left-radius: 10px;
+	border-bottom-right-radius: 10px;
+}
+
+.box.marked {
+	background-color: #ffff00;
+}
