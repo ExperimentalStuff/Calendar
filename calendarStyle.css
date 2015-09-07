@@ -17,6 +17,15 @@ div.lower {
 	border-bottom-right-radius: 10px;
 }
 
-.box.marked {
+div.mark {
+	margin: 10px 0 0 10px;
+	height: 10px;
+	width: 10px;
+	background-color: #ff0000;
+}
+
+.marked {
+	border-style: solid;
+	border-width: 1px;
 	background-color: #ffff00;
 }
